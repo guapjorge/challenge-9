@@ -1,20 +1,20 @@
-# jorge
+# ReadMe Generator
 [![License](https://img.shields.io/badge/License-MIT-darkblue)](LICENSE)
 ## Description
-  n/a
+  This app lets you create a ReadMe faster! 
 
 ## Installation 
-  n/a
+  Install node.js
 
 ## Contributions
-  n/a
+  Jorge Alcala
 
 ## Project Usage
 n/a
 
 ## GitHub
-https://github.com/guapjorge
+https://github.com/guapjorge 
 
 ## Email
-  <a href="mailto:n/a">n/a</a>
+  <a href="mailto:alcalajorgea@gmail.com">alcalajorgea@gmail.com</a>
   
